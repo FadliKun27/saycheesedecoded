@@ -1,0 +1,7 @@
+Mau gw ajarin ? Nih caranya
+- pkg update && upgrade
+- pkg install git curl bash
+- git clone https://github.com/FadliKun27/saycheesedecoded
+- cd saycheesedecoded
+- chmod +x *
+- bash saycheesedecoded.sh
